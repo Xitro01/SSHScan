@@ -11,7 +11,7 @@ from optparse import OptionParser, OptionGroup
 
 
 def banner():
-    banner = """
+    banner = r"""
       _____ _____ _    _ _____
      /  ___/  ___| | | /  ___|
      \ `--.\ `--.| |_| \ `--.  ___ __ _ _ __
